@@ -6,6 +6,13 @@
 
 ## Description - <img height="15" src="https://seeklogo.com/images/U/usa-flag-logo-F080109EF3-seeklogo.com.png"  />
 This repository contains the first website I developed using HTML and CSS. My first encounter with web development was in 2021 when I came up with the idea of creating a mini Wikipedia for information about the anime Violet Evergarden and its characters.
+
+## Instalação / Installation
+
+### 1 - Clone o repositório/ Clone the repository:
+```bash
+git clone 
+```
   
 ## Tecnologias utilizadas / Technologies Used
 <div align="left">
