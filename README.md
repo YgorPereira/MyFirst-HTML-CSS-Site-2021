@@ -11,9 +11,15 @@ This repository contains the first website I developed using HTML and CSS. My fi
 
 ### 1 - Clone o repositório/ Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/YgorPereira/MyFirst-HTML-CSS-Site-2021.git
 ```
-  
+### 2 - Navegue até o repositório/ Navigate to the repository:
+  ```bash
+cd MyFirst-HTML-CSS-Site-2021
+```
+
+### 3 - Abra "Index.html" no seu navegador/ Open "Index.html" in your browser
+
 ## Tecnologias utilizadas / Technologies Used
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
