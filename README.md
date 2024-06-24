@@ -1,10 +1,9 @@
 
 # Meu Primeiro Site em HTML e CSS / My first website using HTML and CSS
 
-## Descrição - <img height="15" src="https://seeklogo.com/images/B/bandeira-do-brasil-logo-5D75AAD6AF-seeklogo.com.png"  />
+## Descrição / Description
   Este repositório contém o primeiro website que desenvolvi utilizando HTML e CSS. Meu primeiro contato com desenvolvimento web foi em 2021, quando tive a ideia de criar uma mini Wikipédia para informações sobre o anime Violet Evergarden e seus personagens.
 
-## Description - <img height="15" src="https://seeklogo.com/images/U/usa-flag-logo-F080109EF3-seeklogo.com.png"  />
 This repository contains the first website I developed using HTML and CSS. My first encounter with web development was in 2021 when I came up with the idea of creating a mini Wikipedia for information about the anime Violet Evergarden and its characters.
 
 ## Instalação / Installation
@@ -17,8 +16,15 @@ git clone https://github.com/YgorPereira/MyFirst-HTML-CSS-Site-2021.git
   ```bash
 cd MyFirst-HTML-CSS-Site-2021
 ```
+### 3 - Navegue até o diretório/ Navigate to the directory:
+  ```bash
+cd pages
+```
 
-### 3 - Abra "Index.html" no seu navegador/ Open "Index.html" in your browser
+### 4 - Abra "Index.html" no seu navegador/ Open "Index.html" in your browser
+```bash
+start Index.html
+```
 
 ## Tecnologias utilizadas / Technologies Used
 <div align="left">
@@ -27,13 +33,17 @@ cd MyFirst-HTML-CSS-Site-2021
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
-## Aprendizado - <img height="15" src="https://seeklogo.com/images/B/bandeira-do-brasil-logo-5D75AAD6AF-seeklogo.com.png"  />
+## Aprendizado / Learning
 Nesse projeto, tive meu primeiro contato com HTML e CSS. Consegui desenvolver um site consistente, porém ainda há muita coisa que pode ser melhorada. Ao comparar esse projeto de 2021 com projetos atuais, posso observar minha evolução.
 
-## Learning - <img height="15" src="https://seeklogo.com/images/U/usa-flag-logo-F080109EF3-seeklogo.com.png"  />
 In this project, I had my first encounter with HTML and CSS. I managed to develop a consistent website, but there is still much room for improvement. Comparing this project from 2021 with current ones, I can observe my evolution.
 
 ## Autor / Author
+
+##Contato / Contact
+Para dúvidas ou suporte, entre em contato através do email: email@example.com
+
+For questions or support, contact me via email: email@example.com
 
 - [@YgorPereira](https://github.com/YgorPereira)
 
