@@ -39,11 +39,11 @@ Nesse projeto, tive meu primeiro contato com HTML e CSS. Consegui desenvolver um
 In this project, I had my first encounter with HTML and CSS. I managed to develop a consistent website, but there is still much room for improvement. Comparing this project from 2021 with current ones, I can observe my evolution.
 
 ## Autor / Author
-
-##Contato / Contact
-Para dúvidas ou suporte, entre em contato através do email: email@example.com
-
-For questions or support, contact me via email: email@example.com
-
 - [@YgorPereira](https://github.com/YgorPereira)
+  
+## Contato / Contact
+Para dúvidas, entre em contato através do email: ygorrp25@gmail.com
+
+For questions, contact me via email: ygorrp25@gmail.com
+
 
